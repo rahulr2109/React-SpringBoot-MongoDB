@@ -1,0 +1,12 @@
+/* App-specific CSS styles */
+form {
+  margin-bottom: 20px;
+}
+
+input {
+  margin-right: 10px;
+}
+
+button {
+  margin-right: 10px;
+}
